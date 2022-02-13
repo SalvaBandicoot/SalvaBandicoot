@@ -34,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salvabandicoot&show_icons=true&locale=en&layout=compact" alt="salvabandicoot" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salvabandicoot&show_icons=true&locale=en" alt="salvabandicoot" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salvabandicoot&" alt="salvabandicoot" /></p>
