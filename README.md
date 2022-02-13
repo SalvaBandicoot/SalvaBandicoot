@@ -5,23 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salvabandicoot" alt="salvabandicoot" /></a> </p>
 
-- 💻 Currently working on **Assembler Institute of Technology as Full-Stack Developer.**
+💻 Currently working on **Assembler Institute of Technology as Full-Stack Developer**.
 
-- 🎨 Before developing I worked as **Graphic and Web Designer.**
+🎨 Before developing I worked as **Graphic and Web Designer**.
 
-- 📚 Currently learning **everything about MERN stack.**
+📚 Currently learning **everything about MERN stack**.
 
-- 🔍 I'm interested in **Full-Stack or Front-End Development projects.**
+🔍 I'm interested in **Full-Stack or Front-End Development projects**.
 
-- 👾 My favourite videogame is [Crash Bandicoot.](Crash Bandicoot.)
+👾 My favourite videogame is **Crash Bandicoot**.
 
-- 🧩 My big hobbie is [to build LEGO.](to build LEGO.)
+🧩 My big hobbie is **to build LEGO**.
 
-- 📈 I have good knoledges about **SEO & SEM.**
+📈 I have good knowledge about **SEO & SEM**.
 
-- 👨‍💻 In my free time I **learn about videogame development.**
+👨‍💻 In my free time I **learn about videogame development**.
 
-- 👑 My personality is [ENFJ.](ENFJ.)
+👑 My personality is **ENFJ**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
