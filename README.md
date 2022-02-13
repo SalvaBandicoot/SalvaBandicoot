@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salvabandicoot&label=Profile%20views&color=cb6ce6&style=flat" alt="salvabandicoot" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salvabandicoot" alt="salvabandicoot" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salvabandicoot" alt="salvabandicoot" /></a> </p>
 
 💻 Currently working on **Assembler Institute of Technology as Full-Stack Developer**.
 
