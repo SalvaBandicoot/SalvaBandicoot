@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/salvabandicoot" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/277/988/png-transparent-social-media-computer-icons-linkedin-black-angle-text-logo.png" alt="salvabandicoot"width="40" /></a>
+<a href="https://linkedin.com/in/salvabandicoot" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-128.png" alt="salvabandicoot"width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
