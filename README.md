@@ -26,12 +26,12 @@
 
 👑 My personality is **ENFJ**.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/salvabandicoot" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-128.png" alt="salvabandicoot"width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/boostrap-128.png" alt="bootstrap" width="40" height="40"/> 
@@ -97,11 +97,3 @@
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 </a> 
 </p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=salvabandicoot" alt="salvabandicoot" />
-  </a> 
-</p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salvabandicoot&show_icons=true&locale=en" alt="salvabandicoot" /></p>
-
