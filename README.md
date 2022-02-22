@@ -1,4 +1,7 @@
+![Screenshot](https://i.ibb.co/jGCpg9C/background.png)
+
 <h1 align="center">Hi 👋, I'm Salva</h1>
+
 <h3 align="center">A passionate Full-Stack developer from Cádiz, Spain.</h3>
 
 <p align="left"> 
