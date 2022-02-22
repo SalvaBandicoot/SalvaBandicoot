@@ -1,4 +1,4 @@
-![Screenshot](https://i.ibb.co/jGCpg9C/background.png)
+![Screenshot](https://i.ibb.co/ggVbszD/background.png)
 
 <h1 align="center">Hi 👋, I'm Salva</h1>
 
