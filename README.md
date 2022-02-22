@@ -1,8 +1,8 @@
-![Screenshot](https://i.ibb.co/ggVbszD/background.png)
-
 <h1 align="center">Hi 👋, I'm Salva</h1>
 
 <h3 align="center">A passionate Full-Stack developer from Cádiz, Spain.</h3>
+
+![Screenshot](https://i.ibb.co/ggVbszD/background.png)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=salvabandicoot&label=Profile%20views&color=cb6ce6&style=flat" alt="salvabandicoot" /> 
