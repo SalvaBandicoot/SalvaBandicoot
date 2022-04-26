@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=salvabandicoot&label=Profile%20views&color=cb6ce6&style=flat" alt="salvabandicoot" /> 
 </p>
 
-💻 Currently working on **Assembler Institute of Technology as Full-Stack Developer**.
+💻 Currently working on **Ashler Design as Front-end Developer**.
 
 🎨 Before developing I worked as **Graphic and Web Designer**.
 
